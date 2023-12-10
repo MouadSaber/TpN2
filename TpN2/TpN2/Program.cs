@@ -10,7 +10,7 @@ namespace TpN2
     {
         public int numero;
         
-        // le constructeur de classe Carte :
+        // le constructeur de classe Carte : 
         public Carte(int n)
         {
             numero = n;
